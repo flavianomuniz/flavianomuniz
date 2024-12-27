@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flavianomuniz
 - 👀 I’m interested in ... solidificar meu aprendizado na área de tecnologia e aprimorar meus conhecimentos.
-- 🌱 I’m currently learning ... na escola da nuvem para me formar em cloud awd e terminei desenvolvedor web pelo IFES no projeto "Reprograme-se"
+- 🌱 I’m currently learning ... na escola da nuvem para me formar em Cloud Practitioner AWS e terminei desenvolvedor web pelo IFES no projeto "Reprograme-se"
 - 💞️ I’m looking to collaborate on ... projetos que demonstram minha perfomance como profissional qualificado
 - 📫 How to reach me ... por meio do meu linkedIn
 - 😄 Pronouns: ... 
